@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHVo8/aT9ENjGIlGtwZfZHBt/zVXb1nnn70o/B7o8lWWIGxkgQHtio94h6Y3PjOqPqi2xHj0wW1qt9qEHsugqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\CurrencyExchange\\CurrencyExchange.Server\\CurrencyExchange.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.5\\microsoft.aspnetcore.spaproxy.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

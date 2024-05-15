@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "oHsAA1+YCX5l2Mxq4VuAYwgWLbk1kGGTWwDIowP8//Q=",
+  "Source": "CurrencyExchange.Server",
+  "BasePath": "_content/CurrencyExchange.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\CurrencyExchange\\currencyexchange.client\\currencyexchange.client.esproj",
+      "Version": 2,
+      "Source": "currencyexchange.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
